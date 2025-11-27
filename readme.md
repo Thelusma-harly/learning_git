@@ -1,4 +1,4 @@
-## Hey Everyone, Welcome to this test git !
+## Welcome to GIT!
 
-- Hey! This is Jules!
+- This is comming from dev-harly
 - I am adding this from "feature-branch"
